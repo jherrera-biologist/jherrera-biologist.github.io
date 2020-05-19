@@ -3,7 +3,7 @@ title: "About This Website"
 output: 
   html_document: 
     highlight: zenburn
-    theme: cosmo
+    theme: united
 ---
 
 More about this website. 
