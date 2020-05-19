@@ -1,9 +1,8 @@
 ---
-title: "About This Website"
+title: "[whoisjuan]"
 output: 
   html_document: 
     highlight: zenburn
-    theme: united
+    theme: cosmo
 ---
 
-More about this website. 
