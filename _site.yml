@@ -1,11 +1,11 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "JHERRERA-BIOLOGIST WEBSITE"
+  title: "jherrera-biologist Website"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Quien es Juan"
       href: about.html
 
       
